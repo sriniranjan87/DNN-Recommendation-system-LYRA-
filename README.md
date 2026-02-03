@@ -29,8 +29,7 @@ What This Project Shows
 -Integrated ML with a basic web application
 
 
-Authors
 
-Sriniranjan V
-
-Shreya Mridula G
+Authors:
+  -Sriniranjan V
+  -Shreya Mridula G
